@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.container > h1{
+	text-align : center;
+}
+	
+textarea{
+	resize : none;
+}
+	
+input[type='file']{
+	display : none;
+}
+	
+#showImage{
+	margin-top: 60px;
+	margin-left: 28px;
+	width: 20%;
+	height: 40%;
+	border : 1px dotted gray;
+	float : left;
+}
+	
+#ModifyDiv{
+	width : 800px;
+	margin : 0 auto;
+}

@@ -1,0 +1,45 @@
+@charset "UTF-8";
+.gray{color:gray}
+
+.ProductBody{
+	text-align : center;
+	margin-top : 80px;
+}
+			
+.ProductTitle{
+	text-align : center;
+	margin-top : 8px;
+}
+	
+.ProductTitle > a {
+	color : black;
+}
+	
+.container > h2{
+	float : left;
+}
+	
+#productAddbtn{
+	float : right;
+}
+	
+.container > form{
+	margin-bottom : 15px;
+}
+	
+textarea{
+	resize : none;
+}
+	
+#imgUpload{
+	padding-left: 1px;
+	padding-top: 3px;
+}
+	
+.modal {
+	overflow-y:auto;
+}
+	
+input[type='file']{
+	display : none;
+}

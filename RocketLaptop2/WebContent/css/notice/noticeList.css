@@ -1,0 +1,29 @@
+@charset "UTF-8";
+.gray{color:gray}
+
+.NoticeBody{
+	text-align : center;
+	margin-top : 80px;
+}
+	
+.NoticeTitle{
+	text-align : center;
+	margin-top : 10px;
+}
+	
+.NoticeTitle > a{
+	color : black;
+}
+	
+.container > h2{
+	float : left;
+}
+	
+textarea{
+	resize : none;
+}
+	
+#noticeAddbtn{
+	float : right;
+	margin-bottom : 15px;
+}

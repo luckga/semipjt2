@@ -1,0 +1,25 @@
+@charset "UTF-8";
+ #title{
+	text-align: left;
+    margin-top: 10px;
+}
+
+#title > a{
+	color : black;
+}
+
+#noticebtn{
+	margin-bottom: 15px;
+}
+
+form{margin : 0 auto; width : 60%; text-align : center;}
+
+select[name=search_field]{
+	color : #495057;
+	background-color : #fff;
+	background-clip : padding-box;
+	border : 1px solid #ced4da;
+	border-radius : .25rem;
+	transition : border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+	outline : none;
+}
